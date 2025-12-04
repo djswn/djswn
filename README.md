@@ -38,13 +38,13 @@
 
 ## 📊 GitHub Activity
 ### ✔️ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djswn&show_icons=true&theme=tokyonight)
 
 ### ✔️ Contribution Graph  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=tokyo-night)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=djswn&theme=tokyo-night)
 
 ### ✔️ GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_ID&theme=tokyonight&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=djswn&theme=tokyonight&row=1&column=6)
 
 ---
 
