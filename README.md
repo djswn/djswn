@@ -4,10 +4,28 @@
 - 🔸 이름(닉네임): **[차언주]**
 - 🔸 전공 / 관심 분야: **[앱/웹 개발 & 게임 개발]**
 - 🔸 기술 스택:
-  - 언어: **Python, Java, JavaScript**
-  - 프레임워크: **React**
+  - 언어:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - web: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+  - 프레임워크: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 - 🔸 관심 분야: **웹 개발 / 모바일 앱 / 게임 개발**
 - 🔸 contect: **cej0836@naver.com**
+
+### 🔹 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🔹 Web Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🔹 Frameworks / Libraries
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
 
 ---
 
