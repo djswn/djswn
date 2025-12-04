@@ -1,31 +1,20 @@
 # 👋 Hi, I'm **[EONJU CHA]**
 
 ## 🧑‍💻 About Me
-- 🔸 이름(닉네임): **[차언주]**
+- 🔸 이름: **[차언주]**
 - 🔸 전공 / 관심 분야: **[앱/웹 개발 & 게임 개발]**
 - 🔸 기술 스택:
   - 언어:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - web: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-  - 프레임워크: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - web:
+    ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+  - 프레임워크:
+    ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 - 🔸 관심 분야: **웹 개발 / 모바일 앱 / 게임 개발**
 - 🔸 contect: **cej0836@naver.com**
-
-### 🔹 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### 🔹 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🔹 Frameworks / Libraries
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-
 
 ---
 
@@ -55,21 +44,16 @@
 ---
 
 ## 📊 GitHub Activity
-### ✔️ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djswn&show_icons=true&theme=tokyonight)
 
-### ✔️ Contribution Graph  
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=djswn&theme=tokyo-night)
+### 🔹 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=djswn&theme=tokyo-night)
 
-### ✔️ GitHub Trophies  
-![Trophy](https://github-profile-trophy.vercel.app/?username=djswn&theme=tokyonight&row=1&column=6)
+### 🔹 Activity Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djswn&theme=tokyonight)
 
----
+### 🔹 Commit Streak
+![](https://streak-stats.demolab.com?user=djswn&theme=tokyonight&hide_border=true)
 
-## 🎨 Skills (Badges)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
+### 🔹 Language Usage (Most Used in Commits)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djswn&theme=tokyonight)
 
