@@ -29,7 +29,7 @@
 
 ### 📌 **프로젝트명: [MYDOCTOR]**
 - 📝 **한 줄 소개**: [비대면 진료 어플리케이션]
-- 🔗 **GitHub Repository**: [https://github.com/djswn/DHCP_2025]
+- 🔗 **GitHub Repository**: [https://github.com/djswn/dhcp-2025]
 - 🎯 **프로젝트 목적**
   - [의료 접근성이 낮은 지역의 사람들과 같은 사람들이 휴대폰만으로도 간단한 진료를 받을 수 있도록 함]
 
